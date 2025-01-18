@@ -83,7 +83,7 @@ export default async function Home() {
             </div>
 
             <div>
-              <h2 className="text-2xl font-bold mb-4">Test</h2>
+              <h2 className="text-2xl font-bold mb-4">what shall i do here</h2>
             </div>
           </section>
 
